@@ -1,0 +1,8 @@
+beautifulsoup4
+certifi
+charset-normalizer
+exceptiongroup
+PySocks
+requests
+selenium==4.9.1
+urllib3
